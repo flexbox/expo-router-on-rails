@@ -1,0 +1,9 @@
+# Expo Router on Rails
+
+> Following the convention over configuration, this gem provides a simple way to define your routes in a Expo app.
+
+## Getting started
+
+```bash
+npx expo-router-on-rail add xyz
+```
