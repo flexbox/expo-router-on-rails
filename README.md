@@ -5,5 +5,5 @@
 ## Getting started
 
 ```bash
-npx expo-router-on-rail add xyz
+npx expo-router-on-rails add food
 ```
