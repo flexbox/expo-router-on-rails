@@ -1,6 +1,6 @@
 {
   "name": "expo-router-on-rails",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,14 @@
   "bin": {
     "expo-router-on-rails": "index.js"
   },
-  "keywords": ["react-native", "expo", "rails", "router", "cli", "generator"],
+  "keywords": [
+    "react-native",
+    "expo",
+    "rails",
+    "router",
+    "cli",
+    "generator"
+  ],
   "author": "David Leuliette",
   "license": "MIT",
   "dependencies": {
