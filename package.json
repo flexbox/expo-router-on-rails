@@ -9,7 +9,7 @@
   "bin": {
     "expo-router-on-rails": "index.js"
   },
-  "keywords": [],
+  "keywords": ["react-native", "expo", "rails", "router", "cli", "generator"],
   "author": "David Leuliette",
   "license": "MIT",
   "dependencies": {
