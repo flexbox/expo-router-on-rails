@@ -1,6 +1,6 @@
 # Expo Router on Rails
 
-> Following the convention over configuration, this gem provides a simple way to define your routes in a Expo app.
+> Following the convention over configuration, this package provides a simple way to define your routes in a Expo app.
 
 ## Getting started
 
