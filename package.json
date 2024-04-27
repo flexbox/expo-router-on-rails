@@ -1,5 +1,5 @@
 {
-  "name": "expo-router-on-rail",
+  "name": "expo-router-on-rails",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "expo-router-on-rail": "./index.js"
+    "expo-router-on-rails": "index.js"
   },
   "keywords": [],
   "author": "David Leuliette",
